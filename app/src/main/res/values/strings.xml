@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">Timely SMS</string>
+    <string name="messages_list">History</string>
+    <string name="et_phone_no">Phone No</string>
+    <string name="et_message">Message</string>
+    <string name="bn_add_contact_phone">Add Contact</string>
+    <string name="bn_submit">OK</string>
+    <string name="item_send_now">Send now</string>
+    <string name="item_edit_time">Edit sending time</string>
+    <string name="item_save_draft">Save as draft</string>
+    <string name="empty_list">No messages</string>
+    <string name="menu_deleted">Delete</string>
+    <string name="menu_edit">Edit</string>
+    <string name="will_be_sent">"Will be send "</string>
+    <string name="more">…</string>
+
+    <string-array name="action_list">
+        <item>@string/item_send_now</item>
+        <item>@string/item_edit_time</item>
+        <item>@string/item_save_draft</item>
+    </string-array>
+
+    <string name="title_activity_sms_history">@string/messages_list</string>
+    <string name="action_settings">Settings</string>
+    <string name="opening_bracket">\u0020(\u0020</string>
+    <string name="closing_bracket">\u0020)\u0020</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3327972316398363/3298627335</string>
+    <string name="at">" at "</string>
+    <string name="delivery_expected">Delivery expected</string>
+    <string name="radio_off">Radio off</string>
+    <string name="null_pdu">Null PDU</string>
+    <string name="no_service">No service</string>
+    <string name="generic_failure">Generic failure</string>
+    <string name="sms_will_be_sent">"SMS will be sent "</string>
+    <string name="sms_saved_as_draft">"SMS saved as draft "</string>
+    <string name="sms_sent">"SMS sent "</string>
+    <string name="sms_delivered">"SMS delivered "</string>
+    <string name="phone_number">phone number</string>
+    <string name="your_number">your message</string>
+    <string name="enter">"Enter "</string>
+    <string name="please">", please"</string>
+
+</resources>

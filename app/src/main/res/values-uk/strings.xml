@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">Timely SMS</string>
+    <string name="messages_list">Історія</string>
+    <string name="et_phone_no">Номер телефону</string>
+    <string name="et_message">Повідомлення</string>
+    <string name="bn_add_contact_phone">Додати контакт</string>
+    <string name="bn_submit">OK</string>
+    <string name="item_send_now">Відправити зараз</string>
+    <string name="item_edit_time">Змінити час відправлення</string>
+    <string name="item_save_draft">Зберегти чорновик</string>
+    <string name="empty_list">Немає повідомлень</string>
+    <string name="menu_deleted">Видалити</string>
+    <string name="menu_edit">Змінити</string>
+    <string name="will_be_sent">"Буде відправлено "</string>
+    <string name="more">…</string>
+
+    <string-array name="action_list">
+        <item>@string/item_send_now</item>
+        <item>@string/item_edit_time</item>
+        <item>@string/item_save_draft</item>
+    </string-array>
+
+    <string name="title_activity_sms_history">@string/messages_list</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="opening_bracket">\u0020(\u0020</string>
+    <string name="closing_bracket">\u0020)\u0020</string>
+
+    <string name="at">" о "</string>
+    <string name="delivery_expected">"Доставка очікується "</string>
+    <string name="radio_off">Radio off</string>
+    <string name="null_pdu">Null PDU</string>
+    <string name="no_service">No service</string>
+    <string name="generic_failure">Generic failure</string>
+    <string name="sms_will_be_sent">"SMS буде доставлено "</string>
+    <string name="sms_saved_as_draft">"SMS збережено "</string>
+    <string name="sms_sent">"SMS відправлене "</string>
+    <string name="sms_delivered">"SMS доставлено "</string>
+    <string name="phone_number">номер телефону</string>
+    <string name="your_number">ваше повідомлення</string>
+    <string name="enter">"Введіть "</string>
+    <string name="please">", будь ласка"</string>
+
+</resources>

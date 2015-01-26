@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="TimelyTheme" parent="@style/_TimelyTheme"/>
+
+  <style name="_TimelyTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+
+    <item name="android:editTextBackground">@drawable/timelytheme_edit_text_holo_light</item>
+
+    <item name="android:textColorHighlight">#99333333</item>
+    <item name="android:textSelectHandleLeft">@drawable/timelytheme_text_select_handle_left</item>
+    <item name="android:textSelectHandleRight">@drawable/timelytheme_text_select_handle_right</item>
+    <item name="android:textSelectHandle">@drawable/timelytheme_text_select_handle_middle</item>
+
+    <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextViewTimelyTheme</item>
+
+    <item name="android:buttonStyle">@style/ButtonTimelyTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonTimelyTheme</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerTimelyTheme</item>
+
+    <item name="android:listChoiceBackgroundIndicator">@drawable/timelytheme_list_selector_holo_light</item>
+
+    <item name="android:activatedBackgroundIndicator">@drawable/timelytheme_activated_background_holo_light</item>
+
+  </style>
+
+</resources>
